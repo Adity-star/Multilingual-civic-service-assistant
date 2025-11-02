@@ -1,0 +1,7 @@
+{
+  "name": "Multilingual Civic Service Assistant",
+  "description": "A conversational AI assistant that helps citizens file service requests (e.g., road repair, water issues) in English or Spanish using real-time voice interaction via the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
